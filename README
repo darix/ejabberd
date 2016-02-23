@@ -115,6 +115,7 @@ To compile ejabberd you need:
  - GNU Iconv 1.8 or higher, for the IRC Transport (mod_irc). Optional. Not
    needed on systems with GNU Libc.
  - ImageMagick's Convert program. Optional. For CAPTCHA challenges.
+ - ImageMagick's Convert and Identify program. Optional. For thumbnail support in HTTP File Upload (XEP-0363).
 
 
 ### 1. Compile and install on *nix systems
